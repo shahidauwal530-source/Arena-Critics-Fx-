@@ -1,0 +1,6 @@
+{
+  "name": "Arewa Critics Signal Bot",
+  "description": "Number Reader Bot reading TwelveData market numbers for XAUUSD, EURUSD, and BTCUSD with Africa/Lagos session tracking, Support/Resistance key zones, and EMA34/55 signal logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

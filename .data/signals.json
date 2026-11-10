@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sig-1794323118409-EURUSD",
+    "pair": "EURUSD",
+    "direction": "SELL",
+    "entry_zone": "1.17 - 1.171",
+    "sl": 1.173,
+    "tp1": 1.166,
+    "tp2": 1.165,
+    "reason": "Bearish Rejection at Resistance (1.17 - 1.171) with M15 Close (1.16964) < Open (1.17076) and EMA34 (1.16934) < EMA55 (1.16994).",
+    "ema34": 1.16934,
+    "ema55": 1.16994,
+    "current_price": 1.16964,
+    "candle": {
+      "open": 1.17076,
+      "high": 1.1708800000000001,
+      "low": 1.1694,
+      "close": 1.16964,
+      "datetime": "2026-11-10T15:05:18.409Z"
+    },
+    "timestamp": "2026-11-10T15:05:18.408Z",
+    "session": "New York Session",
+    "lotSize": 0.01,
+    "riskPercent": 1
+  },
+  {
+    "id": "sig-1794323114499-XAUUSD",
+    "pair": "XAUUSD",
+    "direction": "BUY",
+    "entry_zone": "4110 - 4113",
+    "sl": 4108,
+    "tp1": 4125,
+    "tp2": 4128,
+    "reason": "Bullish Rejection at Support (4110 - 4113) with M15 Close (4114.2) > Open (4111) and EMA34 (4115.2) > EMA55 (4112.7).",
+    "ema34": 4115.2,
+    "ema55": 4112.7,
+    "current_price": 4114.2,
+    "candle": {
+      "open": 4111,
+      "high": 4115,
+      "low": 4110.5,
+      "close": 4114.2,
+      "datetime": "2026-11-10T15:05:14.499Z"
+    },
+    "timestamp": "2026-11-10T15:05:14.499Z",
+    "session": "New York Session",
+    "lotSize": 0.01,
+    "riskPercent": 1
+  },
+  {
+    "id": "sig-1794323073605-XAUUSD",
+    "pair": "XAUUSD",
+    "direction": "BUY",
+    "entry_zone": "4110 - 4113",
+    "sl": 4108,
+    "tp1": 4125,
+    "tp2": 4128,
+    "reason": "Bullish Rejection at Support (4110 - 4113) with M15 Close (4114.2) > Open (4111) and EMA34 (4115.2) > EMA55 (4112.7).",
+    "ema34": 4115.2,
+    "ema55": 4112.7,
+    "current_price": 4114.2,
+    "candle": {
+      "open": 4111,
+      "high": 4115,
+      "low": 4110.5,
+      "close": 4114.2,
+      "datetime": "2026-11-10T15:04:33.604Z"
+    },
+    "timestamp": "2026-11-10T15:04:33.604Z",
+    "session": "New York Session",
+    "lotSize": 0.01,
+    "riskPercent": 1
+  },
+  {
+    "id": "sig-1794323066181-XAUUSD",
+    "pair": "XAUUSD",
+    "direction": "BUY",
+    "entry_zone": "4110 - 4113",
+    "sl": 4108,
+    "tp1": 4125,
+    "tp2": 4128,
+    "reason": "Bullish Rejection at Support (4110 - 4113) with M15 Close (4114.2) > Open (4111) and EMA34 (4115.2) > EMA55 (4112.7).",
+    "ema34": 4115.2,
+    "ema55": 4112.7,
+    "current_price": 4114.2,
+    "candle": {
+      "open": 4111,
+      "high": 4115,
+      "low": 4110.5,
+      "close": 4114.2,
+      "datetime": "2026-11-10T15:04:26.181Z"
+    },
+    "timestamp": "2026-11-10T15:04:26.181Z",
+    "session": "New York Session",
+    "lotSize": 0.01,
+    "riskPercent": 1
+  }
+]
